@@ -5,5 +5,8 @@
     "movie-trailer": "^2.1.0",
     "react-router-dom": "^6.3.0",
     "react-youtube": "^9.0.2"
+  },
+  "scripts": {
+    "build": "react-scripts build"
   }
 }
